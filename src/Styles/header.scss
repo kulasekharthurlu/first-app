@@ -1,0 +1,14 @@
+.HeaderContainer {
+  .MuiPaper-root {
+    .MuiToolbar-regular {
+      min-height: 0px;
+      a {
+        color: white;
+        text-decoration: none;
+        margin-left: 15px;
+      }
+      .MuiButtonBase-root {
+      }
+    }
+  }
+}

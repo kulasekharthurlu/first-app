@@ -1,0 +1,51 @@
+[
+    {
+    "title":"1.one kilometer is how many meter?",
+    "option":[10,20,30,100],
+    "answer":"D"
+    },
+     {
+    "title":"2.one meter is how many centimeter?",
+    "option":[10,20,30,100],
+     "answer":"D"
+    }, {
+    "title":"3.one centimeter is how many millimeter?",
+    "option":[10,20,30,100],
+     "answer":"A"
+    }, {
+    "title":"4.one millimeter is how many micrometer?",
+    "option":[1000,20,30,100],
+     "answer":"A"
+    },
+     {
+    "title":"5.one micrometer is how many nanometer?",
+    "option":[10,1000,30,100],
+     "answer":"B"
+    },
+     {
+    "title":"6.which number is big?",
+    "option":[10,1000,30,100],
+     "answer":"B"
+    },
+     {
+    "title":"7.which number is big?",
+    "option":[10,1000,3000,100],
+     "answer":"C"
+    },
+     {
+    "title":"8.which number is big?",
+    "option":[10000,1000,30,100],
+     "answer":"A"
+    },
+     {
+    "title":"9.which number is big?",
+    "option":[10000,1000,30888,100],
+     "answer":"c"
+    },
+     {
+    "title":"10.which number is big?",
+    "option":[10000,105500,30,100],
+     "answer":"B"
+    }
+
+]

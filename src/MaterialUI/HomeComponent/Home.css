@@ -1,0 +1,8 @@
+ /* .MuiToolbar-regular {
+     min-height: 38px;
+ } */
+
+ /* .MuiTypography-root {} */
+ .MuiToolbar-regular {
+     min-height: 48px;
+ }
